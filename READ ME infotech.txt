@@ -1,0 +1,4 @@
+mongo-connect=mongodb+srv://Admin-dinesh:Dinesh@cluster0.l1qq8e4.mongodb.net/infotechDB  (server/mdb.js)
+email-auth-user=dineshroyc25@gmail.com  (server/server.js  ln_No:46)
+email-auth-password=aknsjkitqfpgcetf    (server/server.js  ln_No:47)
+adminPanel Url : http://localhost:3001/admin-panel
